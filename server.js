@@ -18,7 +18,7 @@ const transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
     user: process.env.GMAIL_USER,info@universitaliasrl.it
-    pass: process.env.GMAIL_APP_PASSWORD=byyqualmqkdfyuso
+    pass: process.env.GMAIL_APP_PASSWORD=grfsdhlacwslipby
   },
 });
 
